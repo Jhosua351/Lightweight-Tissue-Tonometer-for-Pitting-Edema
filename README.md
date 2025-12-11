@@ -58,4 +58,4 @@ The device integrates three primary subsystems:
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/lightweight-tissue-tonometer.git
+   git clone https://github.com/Jhosua351/lightweight-tissue-tonometer.git
