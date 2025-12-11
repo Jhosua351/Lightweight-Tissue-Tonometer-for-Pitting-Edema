@@ -45,7 +45,7 @@ The device integrates three primary subsystems:
 
 ---
 
-## 📊 Clinical Grading Scale
+## Clinical Grading Scale
 | Grade | Indentation Depth |
 |-------|------------------|
 | 1+    | < 2 mm
@@ -55,7 +55,7 @@ The device integrates three primary subsystems:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 1. Clone this repository:
    ```bash
    git clone https://github.com/Jhosua351/lightweight-tissue-tonometer.git
