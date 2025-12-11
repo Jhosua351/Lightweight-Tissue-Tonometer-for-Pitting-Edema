@@ -33,7 +33,7 @@ The device integrates three primary subsystems:
 ## Repository Contents
 - `fdc1004_calibration.ino` → Arduino script for force sensor calibration.  
 - `tcnd5000_calibration.ino` → Arduino script for displacement sensor calibration.  
-- `report/` → Final technical report excerpts documenting methodology, design constraints, and results.    
+- `Lightweight Tissue Tonometer For Detecting Pitting Edema Technical Report` → Final technical report excerpts documenting methodology, design constraints, and results.    
 
 ---
 
