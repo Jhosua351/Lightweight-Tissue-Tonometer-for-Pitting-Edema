@@ -29,7 +29,7 @@ The device integrates three primary subsystems:
   - Displacement range: 6–10 cm.
 
 ---
-## 📁 Repository Contents
+## Repository Contents
 - `Sensor-Code/`  
   - `fdc1004_calibration.ino` → Arduino script for force sensor calibration  
   - `tcnd5000_calibration.ino` → Arduino script for displacement sensor calibration  
