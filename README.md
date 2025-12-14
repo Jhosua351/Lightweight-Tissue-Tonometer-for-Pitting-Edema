@@ -104,14 +104,11 @@ Future students should explore **harder and stiffer silicone materials** to ensu
 - **Mechanical Design**:  
   - Refine bellow molds for consistent wall thickness.  
   - Use stiffer silicone materials to improve stability under pressure.
-  - Cast a bellow that is black or a darker color to reduce light environmental noise in the IR sensor.  
-  - Investigate alternative actuator designs (e.g., motor-driven linear actuators).  
-  - Consider ergonomics for patient comfort and clinical usability.  
+  - Cast a bellow that is black or a darker color to reduce light environmental noise in the IR sensor.   
 
 - **Software**:  
   - Implement closed-loop feedback control for force and displacement.  
-  - Add rebound-time measurement to align with full clinical grading standards.  
-  - Develop visualization tools for real-time monitoring.  
+  - Add rebound-time measurement to align with full clinical grading standards.    
 
 ---
 
