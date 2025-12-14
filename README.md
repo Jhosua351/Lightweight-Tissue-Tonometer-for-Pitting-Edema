@@ -29,12 +29,26 @@ The device integrates three primary subsystems:
   - Displacement range: 6–10 cm.
 
 ---
+## 📁 Repository Contents
+- `Sensor-Code/`  
+  - `fdc1004_calibration.ino` → Arduino script for force sensor calibration  
+  - `tcnd5000_calibration.ino` → Arduino script for displacement sensor calibration  
 
-## Repository Contents
-- `fdc1004_calibration.ino` → Arduino script for force sensor calibration.  
-- `tcnd5000_calibration.ino` → Arduino script for displacement sensor calibration.  
-- `Lightweight Tissue Tonometer For Detecting Pitting Edema Technical Report` → Final technical report excerpts documenting methodology, design constraints, and results.
--     
+- `Report/`  
+  - `Lightweight Tissue Tonometer For Detecting Pitting Edema Technical Report.pdf` → Final technical report  
+
+- `PCB Files/`  
+  - Contains Version 1 and Version 2 PCB layouts and schematics  
+
+- `Capacitive-Force-Sensor-Design/`  
+  - Mechanical design files for the capacitive force sensor  
+
+- `Bellow Design/`  
+  - `V1/` → First iteration of bellow mold and design  
+  - `V2/` → Second iteration with improved flexibility and displacement  
+
+- `Air-Intake-Plus-Clear-Plate-Design/`  
+  - Mechanical design of the air intake and clear acrylic plate    
 
 ---
 
